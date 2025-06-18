@@ -11,7 +11,7 @@ cap log close
 version 18.0
 clear
 set more off
-cd "B:\BRC_Elixir\DL046- McAlonan\01. GEN 2020 STATA v3"
+*SET the directory* //cd "***********"
 *****************************************************
 **load master file
 *********************************************************************************** 

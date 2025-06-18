@@ -443,6 +443,6 @@ gen review2_contact=1
 *dropping more variables 
 drop gender_hv2 ethnicity_code_hv2 ethnicity_description_hv2 achievement_flag_hv2 cc1_service_locality_name_hv2 healthvisit_number n_missing_fields ASQ_alldomain_temp
 
-save healthvisit_review2_cutdown, replace //9970
+save healthvisit_review2_cutdown, replace 
 
 ***********************
